@@ -13,8 +13,8 @@
 Cześć! Nazywam się **Filip Tenerowicz** i jestem początkującym backend developerem z pasją do **Pythona**.  
 Ukończyłem studia inżynierskie z **biotechnologii**, a od ponad półtora roku intensywnie rozwijam się w obszarze **programowania**.
 
-🔬 Obecnie odbywam staż w **laboratorium mikrobiologii** (Chema-Elektromet).  
-🎓 Jestem także **przewodniczącym koła naukowego Apinitio**, gdzie organizuję pokazy edukacyjne z wykorzystaniem aplikacji **Foldit**.  
+🔬 Odbyłem staż w **laboratorium mikrobiologii** (Chema-Elektromet).  
+🎓 Jestem **przewodniczącym koła naukowego ab initio**, gdzie organizuję pokazy edukacyjne z wykorzystaniem aplikacji **Foldit**.  
 📘 Dodatkowo **udzielam korepetycji z biologii i chemii** – zarówno uczniom szkół średnich, jak i przygotowującym się do matury.
 
 ---
@@ -24,7 +24,7 @@ Ukończyłem studia inżynierskie z **biotechnologii**, a od ponad półtora rok
 - 🔬 **Staż – Laboratorium Mikrobiologii, Chema-Elektromet**  
   → analiza próbek, praca z mikroorganizmami, przestrzeganie procedur BHP
 
-- 🧬 **Przewodniczący Koła Naukowego Apinitio**  
+- 🧬 **Przewodniczący Koła Naukowego ab initio**  
   → pokazy i wykłady dla szkół z wykorzystaniem gry edukacyjnej **Foldit**
 
 - 🧑‍🏫 **Korepetycje z biologii i chemii**  
