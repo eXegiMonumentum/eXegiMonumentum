@@ -1,80 +1,89 @@
-<h1 align="center">👨‍💻 Backend Python Developer - Filip Tenerowicz</h1>
+<h1 align="center">👨‍💻 Filip Tenerowicz – Python Backend Developer</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Django-Web%20Framework-green?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/Biotech%20Engineer-white?style=for-the-badge&logo=leaflet" />
+  <img src="https://img.shields.io/badge/Django-Web%20Framework-success?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/Biotech%20Engineer-lightgrey?style=for-the-badge&logo=leaflet" />
 </p>
 
 ---
 
 ## 👋 O mnie
 
-Cześć! Nazywam się **Filip Tenerowicz** i jestem początkującym backend developerem z pasją do **Pythona**.  
-Ukończyłem studia inżynierskie z **biotechnologii**, a od ponad półtora roku intensywnie rozwijam się w obszarze **programowania**.
+Cześć! Jestem **Filip Tenerowicz** – backend developer na wczesnym etapie kariery, z zamiłowaniem do **Pythona**, nauki i projektów interdyscyplinarnych.
 
-🔬 Odbyłem staż w **laboratorium mikrobiologii** (Chema-Elektromet).  
-🎓 Jestem **przewodniczącym koła naukowego ab initio**, gdzie organizuję pokazy edukacyjne z wykorzystaniem aplikacji **Foldit**.  
-📘 Dodatkowo **udzielam korepetycji z biologii i chemii** – zarówno uczniom szkół średnich, jak i przygotowującym się do matury.
+🎓 Z wykształcenia jestem **inżynierem biotechnologii**, a od ponad 1,5 roku intensywnie rozwijam się w kierunku **programowania backendowego**, w szczególności z użyciem **Django**.
+
+💡 Jestem osobą **dokładną i perfekcjonistyczną**, zwracam uwagę na jakość kodu, strukturę projektu i przejrzystość.  
+💬 Cenię **współpracę w zespole** – dzięki projektom grupowym na studiach oraz pracy w kole naukowym rozwinąłem umiejętności organizacyjne i komunikacyjne.
 
 ---
 
 ## 🧪 Doświadczenie
 
-- 🔬 **Staż – Laboratorium Mikrobiologii, Chema-Elektromet**  
-  → analiza próbek, praca z mikroorganizmami, przestrzeganie procedur BHP
+- 🔬 **Staż w Laboratorium Mikrobiologii (Chema-Elektromet)**  
+  Praca z próbkami mikrobiologicznymi, analizy, przestrzeganie procedur BHP.
 
-- 🧬 **Przewodniczący Koła Naukowego ab initio**  
-  → pokazy i wykłady dla szkół z wykorzystaniem gry edukacyjnej **Foldit**
+- 🧪 **Studia inżynierskie z biotechnologii**  
+  Zajęcia laboratoryjne i projekty z zakresu biologii molekularnej i chemii.  
+  **Analizy chemiczne oraz praca eksperymentalna rozwijały logiczne i analityczne myślenie**, a także precyzję i systematyczność.
+  
+- 🤝 **Praca w zespołach projektowych na uczelni**  
+  Współpraca w interdyscyplinarnych zespołach, planowanie działań, wspólna odpowiedzialność za efekt.
 
-- 🧑‍🏫 **Korepetycje z biologii i chemii**  
-  → indywidualne zajęcia, przygotowanie do egzaminów, tłumaczenie trudnych zagadnień z pasją
+- 📚 **Korepetycje z biologii i chemii**  
+  Indywidualne zajęcia dla uczniów liceum i kandydatów na studia – skuteczne tłumaczenie trudnych tematów.
 
+- 🧬 **Przewodniczący Koła Naukowego _ab initio_**  
+  Organizacja edukacyjnych pokazów naukowych z wykorzystaniem aplikacji **Foldit** (modelowanie białek).
 ---
 
 ## 💼 Projekty
 
-| Nazwa | Opis |
-|-------|------|
-| 🔹 **Budget Control App** | Aplikacja CLI do zarządzania budżetem, śledzenie wydatków, planowanie |
+| Nazwa projektu | Opis |
+|----------------|------|
+| 🧾 **Budget Control App** | Aplikacja CLI do zarządzania budżetem i śledzenia wydatków |
 | 🗓️ **Calendar App (Django)** | Webowy kalendarz wydarzeń z backendem w Django |
-| 📆 **Planner Tekstowy** | CLI do tygodniowego i miesięcznego planowania z wizualizacją czasu |
-| 🧪 **Kalkulator Chemiczno-Geometryczny** | Obliczenia stężeń, mas molowych i geometrii |
-| 🐱 **The Cat API Tool** | Pobieranie losowych zdjęć kotów przez API |
+| 📅 **Planner Tekstowy** | CLI do tygodniowego i miesięcznego planowania z wizualizacją czasu |
+| 🧮 **Kalkulator Chemiczno-Geometryczny** | Obliczenia stężeń, mas molowych |
+| 🐱 **The Cat API Tool** | Prosta aplikacja do pobierania losowych zdjęć kotów przez API |
 
 ---
 
-## 🛠️ Umiejętności
+## 🛠️ Umiejętności techniczne
 
-- 🐍 **Python** – automatyzacje, obsługa plików, aplikacje CLI  
-- 🌐 **Django** – routing, modele, szablony, CRUD  
-- 🧮 **SQL / SQLAlchemy** – podstawowa praca z bazami danych  
-- 🤝 **Zarządzanie zespołem** – organizacja wydarzeń, prowadzenie koła naukowego  
-- 🧠 **Modelowanie molekularne** – znajomość aplikacji Foldit oraz popularyzacja nauki  
-- 📘 **Korepetycje** – umiejętność tłumaczenia złożonych tematów w prosty sposób
+- 🐍 **Python** – automatyzacja, parsowanie danych, aplikacje terminalowe
+- 🌐 **Django** – modele, widoki, szablony, formularze, CRUD
+- 🧮 **SQL / SQLAlchemy** – podstawy pracy z relacyjnymi bazami danych
+- 🤝 **Zarządzanie zespołem** – organizacja wydarzeń, prowadzenie koła naukowego
+- 🧠 **Modelowanie molekularne** – popularyzacja nauki przy użyciu **Foldit**
+- 🧑‍🏫 **Mentoring i nauczanie** – prosty język do trudnych tematów
 
 ---
 
-## 🎯 Cele
+## 🎯 Cele i motywacja
 
-Poszukuję możliwości rozwoju jako **backend developer**. Jestem otwarty na:  
-✅ Staże  
-✅ Udział w zespołach projektowych  
-✅ Praktyczne zadania testowe  
+Szukam możliwości rozwoju jako **backend developer**.  
+Interesują mnie:
+- ✅ Staże i praktyki
+- ✅ Projekty open source
+- ✅ Rozwiązywanie realnych problemów kodem
 
-Stawiam na jakość, rozwój i interdyscyplinarne podejście do technologii.
+**Stawiam na jakość, komunikację i interdyscyplinarność.**  
+Nie boję się wyzwań i chętnie uczę się nowych technologii.
 
 ---
 
 ## 🎨 Zainteresowania
 
 🎻 Gra na skrzypcach  
-✏️ Rysowanie (szkice, ilustracje)  
-📚 Nauka, eksploracja nowych technologii  
-🧪 Połączenie nauki z IT
+✏️ Rysowanie (szkic, ilustracja)  
+📚 Nauka i eksploracja nowych technologii  
+🧠 Psychologia – poznawanie mechanizmów zachowań, emocji, motywacji  
+💪 Aktywność fizyczna – ćwiczę regularnie dla zdrowia i dyscypliny  
 
 ---
 
 ## 📬 Kontakt
 
-🔗 GitHub: [github.com/eXegiMonumentum](https://github.com/eXegiMonumentum)
+- 🔗 GitHub: [github.com/eXegiMonumentum](https://github.com/eXegiMonumentum)
