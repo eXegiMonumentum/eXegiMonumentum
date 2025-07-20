@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Django-Web%20Framework-success?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/Biotech%20Engineer-lightgrey?style=for-the-badge&logo=leaflet" />
+  <img src="https://img.shields.io/badge/MSc.%20Biotech%20Engineer-lightgrey?style=for-the-badge&logo=leaflet" />
 </p>
 
 ---
