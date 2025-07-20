@@ -10,12 +10,13 @@
 
 ## 👋 O mnie
 
-Cześć! Jestem **Filip Tenerowicz** – backend developer na wczesnym etapie kariery, z zamiłowaniem do **Pythona**, nauki i projektów interdyscyplinarnych.
+Jestem magistrem biotechnologii, który z pasją rozwija się w kierunku backend developmentu i testowania oprogramowania. Od ponad 1,5 roku uczę się Pythona, SQL oraz Django – tworzę aplikacje webowe i narzędzia automatyzujące zadania. Zależy mi na jakości kodu, przejrzystości projektów i rozwijaniu dobrych praktyk developerskich.
 
-🎓 Z wykształcenia jestem **inżynierem biotechnologii**, a od ponad 1,5 roku intensywnie rozwijam się w kierunku **programowania backendowego**, w szczególności z użyciem **Django**.
+🔧 Równolegle zgłębiam testowanie oprogramowania, aktualnie przygotowując się do egzaminu ISTQB Foundation Level, by lepiej rozumieć procesy QA, projektowanie przypadków testowych i cykl życia defektów.
 
-💡 Jestem osobą **dokładną i perfekcjonistyczną**, zwracam uwagę na jakość kodu, strukturę projektu i przejrzystość.  
-💬 Cenię **współpracę w zespole** – dzięki projektom grupowym na studiach oraz pracy w kole naukowym rozwinąłem umiejętności organizacyjne i komunikacyjne.
+🤝 Mam doświadczenie w pracy zespołowej i organizacyjnej – uczestniczyłem w projektach grupowych oraz kołach naukowych, gdzie rozwijałem zarówno umiejętności techniczne, jak i miękkie.
+
+🚀 Szukam stażu lub pierwszej pracy jako Python Developer lub Tester Oprogramowania. Chcę zdobywać praktyczne doświadczenie, uczyć się od zespołu i wnosić wartość od pierwszych zadań.
 
 ---
 
